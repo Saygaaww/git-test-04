@@ -1,0 +1,22 @@
+{
+  "name": "git-test-04",
+  "version": "1.0.0",
+  "description": "this is example about git-test-04",
+  "main": "index.js",
+  "dependencies": {
+    "corepack": "^0.29.3",
+    "npm": "^10.8.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Saygaaww/git-test-04.git)"
+  },
+  "author": "Tuan Vu",
+  "license": "ISC"
+}
